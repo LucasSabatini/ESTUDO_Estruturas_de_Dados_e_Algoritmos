@@ -1,0 +1,1 @@
+Repositório criado com intuito de armazenar meus estudos referentes às estruturas de dados e algoritmos.
